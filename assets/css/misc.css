@@ -1,0 +1,27 @@
+.sponsor-section {
+    /*display: flex;*/
+    justify-content: center;
+    width: 100%;
+    /*border: 1px solid;*/
+}
+
+.sponsor {
+    transform: scale(0.7);
+    max-width: 70%;
+    transition: 0.2s ease-in-out;
+    /*border: 1px solid;*/
+
+}
+
+.sponsor:hover {
+    transform: scale(0.8);
+    cursor: pointer;
+}
+
+.officers ul {
+    list-style: none;
+}
+
+#last {
+    margin-bottom: 100px;
+}
