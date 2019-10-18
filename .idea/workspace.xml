@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b88bc58-5b3d-45a9-82e5-a37cd97443b9" name="Default Changelist" comment="" />
+    <list default="true" id="5b88bc58-5b3d-45a9-82e5-a37cd97443b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +26,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RrKPmwO08muAKTnLMsqqUYKOjt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -63,11 +66,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570419752466</updated>
-      <workItem from="1570419753730" duration="4219000" />
+      <workItem from="1570419753730" duration="4494000" />
+      <workItem from="1571104652966" duration="591000" />
+      <workItem from="1571107210542" duration="578000" />
     </task>
+    <task id="LOCAL-00001" summary="deleted html5up license and readme">
+      <created>1570424265978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570424265978</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changed website url heading">
+      <created>1570424373557</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570424373557</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="deleted html5up license and readme" />
+    <MESSAGE value="changed website url heading" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed website url heading" />
   </component>
 </project>
